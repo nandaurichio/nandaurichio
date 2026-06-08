@@ -1,6 +1,4 @@
-<img width="1983" height="793" alt="b2" src="https://github.com/user-attachments/assets/ada96469-0c80-4822-abb3-93403c3db362" />
-
-
+<img width="1983" height="793" alt="b3" src="https://github.com/user-attachments/assets/dec0631f-3488-4215-aa58-b49458ff2f53" />
 
 
 # Olá 👋
