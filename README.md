@@ -18,10 +18,10 @@ Atualmente desenvolvo projetos de Analytics utilizando Python e SQL, com interes
 
 ## Projetos em destaque
 
-### Superstore BI
+### [Superstore](https://github.com/nandaurichio/projeto-superstore)
 Projeto de análise exploratória de dados de vendas utilizando Python, Pandas e Matplotlib para identificar padrões de receita, lucratividade e comportamento dos clientes.
 
-### Anagram Game
+### [Anagram Game](https://github.com/nandaurichio/anagram-game)
 Jogo de terminal desenvolvido em Python durante o programa Code in Place 2026, com foco em lógica de programação e manipulação de strings.
 
 ## Atualmente estudando
