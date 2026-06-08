@@ -1,26 +1,28 @@
-<img width="1983" height="793" alt="b3" src="https://github.com/user-attachments/assets/dec0631f-3488-4215-aa58-b49458ff2f53" />
+<img width="1983" height="793" alt="b2000" src="https://github.com/user-attachments/assets/b29f1938-c662-431e-aa06-79f9321e4a1a" />
 
 
 # Olá 👋
 
-Sou uma profissional em transição para a área de Dados, com experiência anterior em Administração e foco atual em Analytics Engineering.
+Sou uma profissional em transição para a área de Dados, com experiência anterior em Administração.
 
-Atualmente desenvolvo projetos utilizando Python, SQL e visualização de dados, além de explorar aplicações de Analytics no ecossistema Web3 e DeFi.
+Atualmente desenvolvo projetos de Analytics utilizando Python e SQL, com interesse em Modelagem de Dados, Analytics Engineering e aplicações para Web3 e DeFi.
 
 ## Tecnologias
 
-- Linguagens e Frameworks: Python (web3.py, Pandas, Streamlit), SQL.
-- Ferramentas Web3/Dados: Dune Analytics.
-- BI e Tradicionais: Power BI, Excel.
-- Versionamento e Controle: Git e GitHub.
+- Python (Pandas, Streamlit, web3.py)
+- SQL
+- Git e GitHub
+- Power BI
+- Excel
+- Dune Analytics
 
 ## Projetos em destaque
 
 ### Superstore BI
-Projeto de análise exploratória e visualização de dados utilizando Python, Pandas e Matplotlib.
+Projeto de análise exploratória de dados de vendas utilizando Python, Pandas e Matplotlib para identificar padrões de receita, lucratividade e comportamento dos clientes.
 
 ### Anagram Game
-Projeto desenvolvido como parte da aprendizagem do programa Code in Place 2026.
+Jogo de terminal desenvolvido em Python durante o programa Code in Place 2026, com foco em lógica de programação e manipulação de strings.
 
 ## Atualmente estudando
 
@@ -30,12 +32,13 @@ Projeto desenvolvido como parte da aprendizagem do programa Code in Place 2026.
 
 ## Interesses de Pesquisa
 
-- Data Analytics onchain
-- Business Intelligence
-- Analytics Engineering
-- DeFi 
-- Blockchain
-- Open Finance
+* Onchain Analytics
+* Analytics Engineering
+* Data Modeling
+* Business Intelligence
+* DeFi & Blockchain
+* Open Finance
+
 
 ## Contato
 
