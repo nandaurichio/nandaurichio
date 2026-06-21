@@ -7,6 +7,8 @@ Sou uma profissional em transição para a área de Dados, com experiência ante
 
 Atualmente desenvolvo projetos de Analytics utilizando Python e SQL, com interesse em Modelagem de Dados, Analytics Engineering e aplicações para Web3 e DeFi.
 
+Este é um espaço que contém experimentos, estudos e pequenos projetos de exploração em Data Analytics e Engenharia de Dados.
+
 ## Tecnologias
 
 - Python (Pandas, Streamlit, web3.py)
