@@ -11,7 +11,7 @@ Este é um espaço que contém experimentos, estudos e pequenos projetos de expl
 
 ## Tecnologias
 
-- Python (Pandas, Streamlit, web3.py)
+- Python (Pandas, Streamlit, web3.py, CCXT)
 - SQL
 - Git e GitHub
 - Power BI
