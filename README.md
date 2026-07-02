@@ -9,6 +9,7 @@ A curiosidade foi o ponto de partida da minha jornada na tecnologia. Hoje ela co
 Sou formada em Análise e Desenvolvimento de Sistemas e desenvolvo projetos nas áreas de Data Analytics, Business Intelligence e Analytics Engineering, utilizando principalmente Python e SQL.
 
 Este GitHub reúne projetos, estudos e explorações técnicas que documentam minha evolução profissional. Cada projeto representa uma oportunidade de aprender uma nova tecnologia, investigar um problema e construir soluções orientadas por dados.
+
 ---
 
 # 🛠 Stack Técnica
