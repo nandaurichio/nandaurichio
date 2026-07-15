@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="b2000" src="https://github.com/user-attachments/assets/b29f1938-c662-431e-aa06-79f9321e4a1a" />
+<img width="1983" height="793" alt="banner github 2" src="https://github.com/user-attachments/assets/021a0401-84c1-42ca-a477-9148ab473137" />
+
 
 # Olá! 👋
 
@@ -88,7 +89,7 @@ Atualmente aprofundando conhecimentos em:
 - dbt
 - Modelagem de Dados
 - Engenharia de Dados
-- Ecossistema Ethereum
+- Ecossistemas Ethereum e Solana
 - DeFi
 - On-chain Analytics
 
