@@ -117,7 +117,4 @@ Atualmente aprofundando conhecimentos em:
 
 🚧 Desenvolvendo novos projetos para aprofundar conhecimentos em Engenharia de Dados, Analytics Engineering e On-chain Analytics.
 
-___
-## Contato
 
-LinkedIn: https://www.linkedin.com/in/fernanda-ribeiro-aurichio/
