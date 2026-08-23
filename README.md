@@ -14,33 +14,16 @@ Sou formada em Análise e Desenvolvimento de Sistemas e desenvolvo projetos nas 
 Este GitHub reúne projetos, estudos e explorações técnicas que documentam minha evolução profissional. Cada projeto representa uma oportunidade de aprender uma nova tecnologia, investigar um problema e construir soluções orientadas por dados.
 
 ---
-# 🛠 Stack Técnica
+# 🛠️ Tecnologias
 
-### Linguagens
-![Python](https://shields.io)
-![SQL](https://shields.io)
-
-### Banco de Dados
-![PostgreSQL](https://shields.io)
-
-### Bibliotecas e Web Scraping
-![Pandas](https://shields.io)
-![Matplotlib](https://shields.io)
-![Selenium](https://shields.io)
-![Streamlit](https://shields.io)
-![web3.py](https://shields.io)
-
-### Analytics e Visualização de Dados
-![Power BI](https://shields.io)
-![Looker Studio](https://shields.io)
-
-### Versionamento
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-
-### Produtividade
-![Microsoft Excel](https://shields.io)
-
+| Categoria | Stack Técnica |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Bibliotecas e Web Scraping** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat&logo=statsmodels&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![web3.py](https://img.shields.io/badge/web3.py-F16822?style=flat&logo=ethereum&logoColor=white) ![CCXT](https://img.shields.io/badge/CCXT-121212?style=flat&logo=bitcoin&logoColor=white) |
+| **Analytics e Visualização** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white) ![Dune Analytics](https://img.shields.io/badge/Dune%20Analytics-FF6B6B?style=flat&logo=dune&logoColor=white) |
+| **Versionamento** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Produtividade** | ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) |
 ______
   
 
