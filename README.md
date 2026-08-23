@@ -14,42 +14,34 @@ Sou formada em Análise e Desenvolvimento de Sistemas e desenvolvo projetos nas 
 Este GitHub reúne projetos, estudos e explorações técnicas que documentam minha evolução profissional. Cada projeto representa uma oportunidade de aprender uma nova tecnologia, investigar um problema e construir soluções orientadas por dados.
 
 ---
-
 # 🛠 Stack Técnica
 
 ### Linguagens
-
-- Python
-- SQL
+![Python](https://shields.io)
+![SQL](https://shields.io)
 
 ### Banco de Dados
+![PostgreSQL](https://shields.io)
 
-- PostgreSQL
+### Bibliotecas e Web Scraping
+![Pandas](https://shields.io)
+![Matplotlib](https://shields.io)
+![Selenium](https://shields.io)
+![Streamlit](https://shields.io)
+![web3.py](https://shields.io)
 
-### Bibliotecas
-
-- Pandas
-- Matplotlib
-- Selenium
-- Streamlit
-- web3.py
-- CCXT
-
-### Visualização de Dados
-
-- Power BI
-- Looker Studio
-- Dune Analytics
+### Analytics e Visualização de Dados
+![Power BI](https://shields.io)
+![Looker Studio](https://shields.io)
 
 ### Versionamento
-
-- Git
-- GitHub
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
 ### Produtividade
+![Microsoft Excel](https://shields.io)
 
-- Microsoft Excel
-___
+______
   
 
 
